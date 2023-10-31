@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Chen Zhou and I'm a second year PHD student in Industrial Engineering and Operations Research at Penn State.
-- 👀 I’m interested in computer science and data science.
-- 🌱 I’m currently learning Java and data structure.
-- 📫 Please reach me out by zc19950514@gmail.com OR cbz5148@psu.edu if you have any comments or questions regarding my projects.
+**👋 Hello & welcome to my GitHub!**
 
-<!---
-zc534012448/zc534012448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**👨‍🎓 Hi, I’m Chen Zhou!**  
+I'm a third-year Ph.D. student in Industrial Engineering and Operations Research at Penn State. My academic journey has led me to delve deep into the fascinating world of computer vision, specifically in medical images and 3D reconstruction.
+
+**🔍 Current Learning**: I'm on a quest to understand NERF models and their potential applications in my research domain.
+
+
+**📩 Get in Touch**: Your feedback, comments, or questions regarding my projects are always welcome. Reach out to me at:
+- 📧 [zc19950514@gmail.com](mailto:zc19950514@gmail.com)
+- 🏫 [cbz5148@psu.edu](mailto:cbz5148@psu.edu)
+
+_Happy coding! 🚀_
